@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor back-end em desenvolvimento, constantemente buscando conhecimento para aprimorar minhas habilidades. <br>
+🎓  Desenvolvedor back-end em desenvolvimento, constantemente buscando conhecimento para aprimorar minhas habilidades. <br>
 🌱  Atualmente no bootcamp da CubosAcademy<br><br>
 
 
