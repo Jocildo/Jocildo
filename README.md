@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 💡  Olá! Me chamo Jocildo Neto, sou desenvolvedor back-end em desenvolvimento, constantemente buscando conhecimento para aprimorar minhas habilidades. <br>
-🎓  Téc. em desenvolvimento de sistemas.
+🎓  Téc. em desenvolvimento de sistemas. <br>
 🌱  Atualmente no bootcamp de back-end da CubosAcademy.<br><br>
 
 
