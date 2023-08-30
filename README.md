@@ -3,7 +3,7 @@
 
 <p align= "left"> <img src="https://komarev.com/ghpvc/?username=jocildo&label=Profile%20views&color=0e75b6&style=flat" alt="jocildo" /> </p>
 
-- 🌱 Atualmente sem bootcamp da * *CubosAcademy**
+- 🌱 Atualmente no bootcamp da **CubosAcademy**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
